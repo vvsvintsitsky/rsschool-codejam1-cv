@@ -1,0 +1,17 @@
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.personal-info {
+  display: flex;
+}
+
+.personal-info__photo {
+  margin-left: auto;
+  width: 5%;
+}
+
+.personal-info__photo img {
+  width: 100%;
+}
